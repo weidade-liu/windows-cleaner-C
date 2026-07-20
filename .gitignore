@@ -1,0 +1,15 @@
+# Windows
+*.log
+*.tmp
+Thumbs.db
+Desktop.ini
+
+# PowerShell
+*.ps1xml
+*.psd1
+
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
